@@ -1,6 +1,10 @@
 /node_modules
 /public/hot
 /public/storage
+/public/img
+/public/imgages
+/public/reports
+/projetorenascer
 /storage/*.key
 /vendor
 .env
