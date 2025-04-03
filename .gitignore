@@ -7,7 +7,7 @@
 /public/*.gif  
 /public/*.bmp  
 /public/*.svg
-# Ignorar arquivos PDF
+/public/*.ico
 /public/reports/*.pdf
 /projetorenascer
 /public/storage
