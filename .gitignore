@@ -1,8 +1,14 @@
 /node_modules
 /public/hot
-/public/img
-/public/imgages
-/public/reports
+# Ignorar imagens PNG, JPG e GIF
+/public/*.png  
+/public/*.jpg  
+/public/*.jpeg  
+/public/*.gif  
+/public/*.bmp  
+/public/*.svg
+# Ignorar arquivos PDF
+/public/reports/*.pdf
 /projetorenascer
 /public/storage
 /storage/*.key
